@@ -1,0 +1,21 @@
+.greeting{
+    display: flex;
+    align-items: flex-start;
+}
+
+.someClass {
+
+}
+
+.error {
+    color: indigo;
+    height: 21px;
+    margin-left: 10px;
+}
+input{
+    margin: 10px;
+    background: gold;
+}
+input:focus {
+    outline: #9e00ff solid 2px;
+}
